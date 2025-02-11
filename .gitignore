@@ -17,7 +17,7 @@ sync/
 *.userdb/
 installation.yaml
 user.yaml
-*.custom.yaml
+# *.custom.yaml
 !others/**/*.custom.yaml
 
 custom_phrase_double.txt
@@ -32,3 +32,5 @@ rime_deployer
 rime_patch
 
 *.zip
+
+.gitignore

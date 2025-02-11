@@ -1,0 +1,23 @@
+patch:
+  app_options:
+    # 在以下 app 默认使用英文输入
+    com.runningwithcrayons.Alfred: 
+      ascii_mode: true
+    com.sublimetext.4:
+      ascii_mode: true
+    com.apple.finder:
+      ascii_mode: true
+    com.jetbrains.rider:
+      ascii_mode: true
+    com.jetbrains.intellij:
+      ascii_mode: true
+    com.jetbrains.pycharm:
+      ascii_mode: true
+    com.jetbrains.webstorm:
+      ascii_mode: true
+    com.googlecode.iterm2:
+      ascii_mode: true
+    com.microsoft.VSCode:
+      ascii_mode: true
+    dev.warp.Warp-Stable:
+      ascii_mode: true
