@@ -1,3 +1,5 @@
 patch:
   recognizer/patterns/+:
     url_2: "^[A-Za-z]+[.].*"   # 句号不上屏，支持 google.com
+  switcher/hotkeys:
+    - F4
